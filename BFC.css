@@ -1,0 +1,90 @@
+.receipt {
+    width: 300px;
+    margin: 0 auto;
+    padding: 20px;
+    /* border: 1px solid #000; */
+    font-family: Arial, sans-serif;
+  }
+  
+  h1 {
+    font-size: 24px;
+    margin-bottom: 10px;
+  }
+
+  .bfc_token{
+    margin-left: 20px;
+  }
+
+  .take_out{
+    /* margin-left: 0px; */
+  }
+
+  .best-fried{
+    margin-left: 15px;
+  }
+  .outlet{
+    margin-bottom: 10px;
+  }
+  .Address{
+    margin-bottom: 10px;
+  }
+  .phone{
+    margin-bottom: 10px;
+  }
+  .invoice{
+    /* overflow: visible; */
+    width: 320px; /* Set a specific width or max-width */
+    overflow-wrap: break-word; /* Or use word-wrap: break-word; */
+  }
+  .sdc{
+    margin-left: 70px;
+  }
+  
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 10px;
+  }
+  
+  th, td {
+    padding: 5px;
+    border-bottom: 1px solid #000;
+  }
+  
+  th {
+    text-align: left;
+  }
+  
+  p {
+    margin: 5px 0;
+  }
+  
+  p:last-child {
+    font-weight: bold;
+    text-align: right;
+  }
+  .grid-container_1 {
+    display: inline-grid;
+    grid-template-columns:160px 160px;
+    padding: 10px;
+   
+}
+.grid-container2 {
+  display: inline-grid;
+  grid-template-columns:160px 160px;
+  padding: 10px;
+}
+  .grid-container {
+
+    display: inline-grid;
+    grid-template-columns:80px 80px 80px 80px;
+    padding: 10px;
+    
+}
+
+.margin-left {
+  margin-left: 20px;
+}
+
+
+
