@@ -1,32 +1,3 @@
-// const plus = document.querySelector(".plus"),
-// minus = document.querySelector(".minus"),
-// digit = document.querySelector(".digit");
-
-// let a=1;
-
-// plus.addEventListener("click",()=>{
-//     a++;
-//     a=(a<10)? "0" +a:a;
-//     digit.innerText=a;
-//     console.log(a);
-// });
-
-
-// minus.addEventListener("click",()=>{
-//    if(a>1){
-//     a++;
-//     a=(a<10)? "0" +a:a;
-//     digit.innerText=a;
-//     console.log(a);
-//    }
-// });
-// function incrementValue() {
-//     var countElement = document.getElementById("count");
-//     var count = parseInt(countElement.textContent);
-//     count++;
-//     countElement.textContent = count;
-//   }
-
 
 
 // BURGER
